@@ -47,7 +47,6 @@ public class Table {
 			
 			playerCard.add(decks.getOneCard(true));
 			playerCard.add(decks.getOneCard(true));
-			playerCard.add(decks.getOneCard(false));
 			
 			players[i].setOneRoundCard(playerCard);
 		}
